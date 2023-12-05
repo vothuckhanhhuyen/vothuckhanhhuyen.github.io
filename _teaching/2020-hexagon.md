@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Hexagon of Maths and Science Center"
 collection: teaching
-type: "Workshop"
+type: "Mathematics course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
 date: 2015-01-01

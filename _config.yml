@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "Ho Chi Minh, Vietnam"
-title                    : "Huyen Vo"
+title                    : "Huyen K. Vo"
 title_separator          : "-"
-name                     : &name "Huyen Vo"
+name                     : &name "Huyen K. Vo"
 description              : &description ""
 url                      : https://vothuckhanhhuyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vothuckhanhhuyenvn/vothuckhanhhuyenvn.github.io"
+repository               : "vothuckhanhhuyen/vothuckhanhhuyen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huyen K. Vo"
   avatar           : "profile.png"
-  bio              : "CS student at HUST. Interested in Uncertainty Quantification, Deep Implicit Models"
+  bio              : "Computer Science student at HUST. Interested in Uncertainty Quantification, Deep Implicit Models and Continual Learning"
   location         : "Ho Chi Minh, Vietnam"
   employer         :
   pubmed           : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "vothuckhanhhuyenvn"
+  github           : "vothuckhanhhuyen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/vo-thuc-khanh-huyen-b384161a0/"
+  linkedin         : "vo-thuc-khanh-huyen-b384161a0"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
