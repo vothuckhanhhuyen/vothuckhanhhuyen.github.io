@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! My name is Huyen. 
+
+I am a Research Resident at [FPT Software AI Center](https://www.fpt-aicenter.com/), one of the only two AI residency programs in Vietnam, working with [Prof. Tan M. Nguyen](https://tanmnguyen89.github.io/) and [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu).
+
+My research focuses on enhancing the efficiency, robustness and  confidence coverage of Machine Learning (NeuralODEs, Graph Neural Networks, and Continual Learning) by integrating:
+- Optimization methods (Momentum, Adaptive and Derivative free Optimizers).
+- Statistical methods (Conformal Prediction, Bayesian \& Probabilistic).
+
+In 2023, I graduated from the Honors Program at [School of Information and Communication Technology (SoICT)](https://soict.hust.edu.vn/en/), [Hanoi University of Science & Technology (HUST)](https://www.hust.edu.vn/en/) with a Computer Science Bachelor’s degree. During my time here, I was a research student at [Data Science Laboratory](http://ds.soict.hust.edu.vn/), advised by [Dr. Linh V. Ngo](https://users.soict.hust.edu.vn/linhnv/) and [Prof. Khoat Q. Than](https://users.soict.hust.edu.vn/khoattq/).
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +58,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
