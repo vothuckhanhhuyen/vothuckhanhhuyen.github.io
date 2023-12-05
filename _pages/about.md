@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi! My name is Huyen. "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Huyen. 
-
 I am a Research Resident at [FPT Software AI Center](https://www.fpt-aicenter.com/), one of the only two AI residency programs in Vietnam, working with [Prof. Tan M. Nguyen](https://tanmnguyen89.github.io/) and [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu).
 
-My research focuses on enhancing the efficiency, robustness and  confidence coverage of Machine Learning (NeuralODEs, Graph Neural Networks, and Continual Learning) by integrating:
+My research focuses on enhancing the efficiency, robustness and  confidence coverage of Machine Learning models (NeuralODEs, Graph Neural Networks, and Continual Learning) by integrating:
 - Optimization methods (Momentum, Adaptive and Derivative free Optimizers).
-- Statistical methods (Conformal Prediction, Bayesian \& Probabilistic).
+- Statistical methods (Conformal Prediction, Bayesian & Probabilistic).
 
 In 2023, I graduated from the Honors Program at [School of Information and Communication Technology (SoICT)](https://soict.hust.edu.vn/en/), [Hanoi University of Science & Technology (HUST)](https://www.hust.edu.vn/en/) with a Computer Science Bachelor’s degree. During my time here, I was a research student at [Data Science Laboratory](http://ds.soict.hust.edu.vn/), advised by [Dr. Linh V. Ngo](https://users.soict.hust.edu.vn/linhnv/) and [Prof. Khoat Q. Than](https://users.soict.hust.edu.vn/khoattq/).
 
