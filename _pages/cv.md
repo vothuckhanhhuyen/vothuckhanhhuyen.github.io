@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](/files/CV_HuyenThucKhanhVo.pdf) (Last updated: 06/04/2024).
+[CV](/files/CV_HuyenThucKhanhVo.pdf) (Last updated: 11/01/2024).
 
 <!-- Education
 ======
