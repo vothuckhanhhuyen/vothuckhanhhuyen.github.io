@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Resident at [FPT Software AI Center](https://www.fpt-aicenter.com/), one of the only two AI residency programs in Vietnam, working with [Prof. Tan M. Nguyen](https://tanmnguyen89.github.io/) and [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu).
+I will be joining the CS@Max Planck PhD program in Germany in Fall 2024.
 
-My research focuses on enhancing the **performance**, **efficiency**, and **robustness** of machine learning models and quantify the **uncertainty** in the predictions that these models produce by using two core approaches: 
-- **Optimization methods** (momentum and adaptive optimizers)
-- **Statistical methods** (conformal prediction, bayesian and probabilistic).
+Previously, I was a Research Resident at [FPT Software AI Center](https://www.fpt-aicenter.com/), one of the only two AI residency programs in Vietnam, working with [Prof. Tan M. Nguyen](https://tanmnguyen89.github.io/) and [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu).
 
 In 2023, I graduated from the Honors Program at [School of Information and Communication Technology (SoICT)](https://soict.hust.edu.vn/en/), [Hanoi University of Science & Technology (HUST)](https://www.hust.edu.vn/en/) with a Computer Science Bachelor’s degree. During my time here, I was a research student at [Data Science Laboratory](http://ds.soict.hust.edu.vn/), advised by [Dr. Linh V. Ngo](https://users.soict.hust.edu.vn/linhnv/) and [Prof. Khoat Q. Than](https://users.soict.hust.edu.vn/khoattq/).
 
