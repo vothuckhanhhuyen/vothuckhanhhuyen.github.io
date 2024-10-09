@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining the CS@Max Planck PhD program in Germany in Fall 2024.
+I am a PhD student at [CS@Max Planck](https://www.cis.mpg.de/cs-max-planck/) PhD program, advised by [Prof. Isabel Valera](https://machinelearning.uni-saarland.de/isabel-valera/).
 
 Previously, I was a Research Resident at [FPT Software AI Center](https://www.fpt-aicenter.com/), one of the only two AI residency programs in Vietnam, working with [Prof. Tan M. Nguyen](https://tanmnguyen89.github.io/) and [Dr. Thieu N. Vo](https://sites.google.com/tdtu.edu.vn/vongocthieu).
 

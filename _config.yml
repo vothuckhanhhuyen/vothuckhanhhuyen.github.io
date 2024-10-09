@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Ho Chi Minh, Vietnam"
-title                    : "Huyen K. Vo"
+locale                   : "Saarbrücken, Germany"
+title                    : "Huyen Khanh Vo"
 title_separator          : "-"
-name                     : &name "Huyen K. Vo"
+name                     : &name "Huyen Khanh Vo"
 description              : &description ""
 url                      : https://vothuckhanhhuyen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Huyen K. Vo"
+  name             : "Huyen Khanh Vo"
   avatar           : "portrait.jpg"
-  bio              : "Computer Science student at HUST."
-  location         : "Ho Chi Minh, Vietnam"
+  bio              : "PhD student at CS@MaxPlanck."
+  location         : "Saarbrücken, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AmFrYSUAAAAJ&hl=en"
