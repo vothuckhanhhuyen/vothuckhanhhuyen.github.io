@@ -53,10 +53,20 @@
           color: var(--global-card-bg-color) !important;
 
           a {
-            color: white;
+            color: var(--global-card-bg-color) !important;
 
             &:hover {
               text-decoration: none;
+            }
+          }
+
+          &.spotlight-badge {
+            background-color: white !important;
+            border: 1.5px solid #f39c12;
+            color: #f39c12 !important;
+
+            div {
+              color: #f39c12 !important;
             }
           }
         }
