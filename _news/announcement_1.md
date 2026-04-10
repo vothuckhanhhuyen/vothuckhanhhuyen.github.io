@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first PhD paper <strong>Hellinger Multimodal Variational Autoencoders</strong> got a <span style="color: #f39c12 !important;"><strong>Spotlight (2.5%)</strong></span> at <strong>AISTATS 2026</strong>! 🎉
+My first PhD paper <strong>Hellinger Multimodal Variational Autoencoders</strong> got a <span class="spotlight-text"><strong>Spotlight (2.5%)</strong></span> at <strong>AISTATS 2026</strong>! 🎉

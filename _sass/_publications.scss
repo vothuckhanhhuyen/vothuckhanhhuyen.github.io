@@ -62,10 +62,12 @@
 
           &.spotlight-badge {
             background-color: white !important;
-            border: 1.5px solid #f39c12;
-            color: #f39c12 !important;
+            border: 1.5px solid #f39c12 !important;
 
-            div {
+            &,
+            div,
+            a,
+            * {
               color: #f39c12 !important;
             }
           }
@@ -194,6 +196,22 @@
       border-color: var(--global-highlight-color);
     }
   }
+}
+
+.abbr abbr.spotlight-badge,
+.abbr abbr.spotlight-badge div,
+.abbr abbr.spotlight-badge * {
+  color: #f39c12 !important;
+}
+
+span.spotlight-text,
+span.spotlight-text * {
+  color: #f39c12 !important;
+}
+
+.periodical span.honor-text,
+.periodical span.honor-text * {
+  color: #f39c12 !important;
 }
 
 .citation,
