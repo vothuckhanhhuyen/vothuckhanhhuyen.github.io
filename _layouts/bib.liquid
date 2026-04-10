@@ -26,7 +26,9 @@
         {% endif %}
       {% endif %}
       {% if entry.award %}
-        <div class="mt-1" style="color: #f39c12; font-size: 0.75em; text-align: center;"><strong>{{ entry.award_name | default: entry.award }}</strong></div>
+        <abbr class="badge rounded w-100 mt-1" style="background-color: white; border: 1.5px solid #f39c12; color: #f39c12;">
+          <div>{{ entry.award_name | default: entry.award }}</div>
+        </abbr>
       {% endif %}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}

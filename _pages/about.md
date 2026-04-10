@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+clustrmaps: true
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 subtitle:
 
