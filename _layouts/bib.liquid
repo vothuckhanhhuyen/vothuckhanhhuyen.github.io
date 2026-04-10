@@ -191,6 +191,11 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% if entry.honor %}
+      <div class="periodical">
+        <span style="background-color: rgba(243,156,18,0.15); padding: 1px 6px; border-radius: 3px; font-size: 0.85em;"><strong>🏅 {{ entry.honor }}</strong></span>
+      </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
