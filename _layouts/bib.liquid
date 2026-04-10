@@ -26,7 +26,7 @@
         {% endif %}
       {% endif %}
       {% if entry.award %}
-        <abbr class="badge rounded w-100 mt-1" style="background-color: white; border: 1.5px solid #f39c12; color: #f39c12;">
+        <abbr class="badge rounded w-100 mt-1" style="background-color: white; border: 1.5px solid #f39c12; color: #f39c12 !important;">
           <div>{{ entry.award_name | default: entry.award }}</div>
         </abbr>
       {% endif %}
@@ -193,7 +193,7 @@
     </div>
     {% if entry.honor %}
       <div class="periodical">
-        <span style="color: #f39c12; font-size: 0.85em;"><strong>{{ entry.honor }}</strong></span>
+        <span style="color: #f39c12 !important; font-size: 0.85em;"><strong>{{ entry.honor }}</strong></span>
       </div>
     {% endif %}
 
