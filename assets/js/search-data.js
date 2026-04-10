@@ -398,7 +398,7 @@ ninja.data = [{
           title: 'My first paper Improving Neural Ordinary Differential Equations with Nesterov’s Accelerated Gradient Method...',
           description: "",
           section: "News",},{id: "news-my-first-phd-paper-hellinger-multimodal-variational-autoencoders-got-a-spotlight-2-5-at-aistats-2026",
-          title: 'My first PhD paper Hellinger Multimodal Variational Autoencoders got a Spotlight (2.5\%) at...',
+          title: 'My first PhD paper Hellinger Multimodal Variational Autoencoders got a Spotlight (2.5%) at...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
