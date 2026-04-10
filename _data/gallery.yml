@@ -1,0 +1,12 @@
+# Add your photos here
+# - image: filename.jpg (place files in assets/img/gallery/)
+#   caption: Your caption here
+
+- image: zermat.JPG
+  caption: 5 lakes hike in Zermatt, Switzerland.
+- image: stoos.jpg
+  caption: Stoos ridge hike, Switzerland.
+- image: paddle.JPG
+  caption: Paddle field, Vietnam.
+- image: waterfall.png
+  caption: Waterfall K50, Vietnam.
