@@ -12,8 +12,7 @@ nav_order: 4
       <img
         src="{{ item.image | prepend: '/assets/img/gallery/' | relative_url }}"
         alt="{{ item.caption }}"
-        data-zoomable
-        style="width: 100%; height: 220px; object-fit: cover; cursor: zoom-in;"
+        style="width: 100%; height: 220px; object-fit: cover;"
       />
       {% if item.caption %}
         <div style="padding: 8px 12px; font-size: 0.85em; color: var(--global-text-color-light); text-align: center;">
