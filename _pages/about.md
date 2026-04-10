@@ -40,7 +40,7 @@ Hi, I'm Huyen. You can also call me Emily. 🍀
 
 I'm a PhD student at Saarland University (UdS) and Max Planck Institute for Software Systems (MPI-SWS), part of the [CS@Max Planck PhD program](https://www.cis.mpg.de/csmaxplanck-overview/), where I'm fortunate to be advised by [Prof. Isabel Valera](https://machinelearning.uni-saarland.de/isabel-valera/) in the Probabilistic Machine Learning group.
 
-<div style="border-left: 4px solid #e74c3c; background: rgba(231,76,60,0.06); border-radius: 4px; padding: 0.8em 1em; margin: 1em 0;">
+<div style="border-left: 4px solid #27ae60; background: rgba(39,174,96,0.06); border-radius: 4px; padding: 0.8em 1em; margin: 1em 0;">
 🔬 My research focuses on <strong>multimodal generative models</strong>, with a particular interest in the optimization and inference challenges that arise when learning joint representations across multiple data modalities. Previously, I worked on implicit models such as <strong>neural ODEs</strong>. Across my work, I aim to leverage probabilistic and optimization perspectives to develop models that are both effective and efficient.
 </div>
 

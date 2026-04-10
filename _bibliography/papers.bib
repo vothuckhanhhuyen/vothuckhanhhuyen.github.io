@@ -5,21 +5,29 @@
 vo2026hellinger,
 abbr={AISTATS},
 title={Hellinger Multimodal Variational Autoencoders},
-author={Huyen Thuc Khanh Vo and Isabel Valera},
+author={Huyen Vo and Isabel Valera},
 booktitle={The 29th International Conference on Artificial Intelligence and Statistics},
 year={2026},
 url={https://openreview.net/forum?id=mxHyYltMUa},
-selected={true}
+selected={true},
+award={Spotlight},
+award_name={Spotlight},
+abstract={Multimodal variational autoencoders (VAEs) are widely used for weakly supervised generative learning with multiple modalities. Predominant methods aggregate unimodal inference distributions using either a product of experts (PoE), a mixture of experts (MoE), or their combinations to approximate the joint posterior. In this work, we revisit multimodal inference through the lens of probabilistic opinion pooling, an optimization-based approach. We start from H\"older pooling with $\alpha=0.5$, which corresponds to the unique symmetric member of the $\alpha\text{-divergence}$ family, and derive a moment-matching approximation, termed Hellinger. We then leverage such an approximation to propose HELVAE, a multimodal VAE that avoids sub-sampling, yielding an efficient yet effective model that: (i) learns more expressive latent representations as additional modalities are observed; and (ii) empirically achieves better trade-offs between generative coherence and quality, outperforming state-of-the-art multimodal VAE models.},
+pdf={https://arxiv.org/pdf/2601.06572},
+code={https://github.com/vothuckhanhhuyen/hellinger-multimodal-variational-autoencoders}
 }
 
 @inproceedings{
 nguyen2022improving,
 abbr={NeurIPS},
 title={Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method},
-author={Nghia Nguyen and Tan Minh Nguyen and Huyen Thuc Khanh Vo and Stanley Osher and Thieu Vo},
+author={Nghia Nguyen and Tan Minh Nguyen and Huyen Vo and Stanley Osher and Thieu Vo},
 booktitle={Advances in Neural Information Processing Systems},
 editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
 year={2022},
 url={https://openreview.net/forum?id=-OfK_B9Q5hI},
-selected={true}
+selected={true},
+abstract={We propose the Nesterov neural ordinary differential equations (NesterovNODEs), whose layers solve the second-order ordinary differential equations (ODEs) limit of Nesterov's accelerated gradient (NAG) method, and a generalization called GNesterovNODEs. Taking the advantage of the convergence rate $\mathcal{O}(1/k^{2})$ of the NAG scheme, GNesterovNODEs speed up training and inference by reducing the number of function evaluations (NFEs) needed to solve the ODEs. We also prove that the adjoint state of a GNesterovNODEs also satisfies a GNesterovNODEs, thus accelerating both forward and backward ODE solvers and allowing the model to be scaled up for large-scale tasks. We empirically corroborate the advantage of GNesterovNODEs on a wide range of practical applications, including point cloud separation, image classification, and sequence modeling. Compared to NODEs, GNesterovNODEs require a significantly smaller number of NFEs while achieving better accuracy across our experiments.},
+pdf={https://openreview.net/pdf?id=-OfK_B9Q5hI},
+code={https://github.com/Fsoft-AIC/NesterovNODEs}
 }
