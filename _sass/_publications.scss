@@ -82,8 +82,12 @@
         }
 
         > em {
-          border-bottom: 1px solid;
           font-style: normal;
+          font-weight: bold;
+          background-color: rgba(231, 76, 60, 0.15);
+          border-bottom: 2px solid #e74c3c;
+          border-radius: 2px;
+          padding: 0 2px;
         }
 
         > span.more-authors {
