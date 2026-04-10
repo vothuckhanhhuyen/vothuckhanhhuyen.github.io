@@ -195,3 +195,48 @@
       value: Huyen Vo
     - name: Languages
       value: English, Vietnamese
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. Student in Computer Science
+      institution: Saarland University and Max Planck Institute for Software Systems, Saarbrücken, Germany
+      year: 2024-2029
+      description:
+        - Advised by <a href="https://machinelearning.uni-saarland.de/isabel-valera/">Prof. Isabel Valera</a>
+    - title: B.Sc in Computer Science
+      institution: Hanoi Univeristy of Science and Technology, Hanoi, Vietnam
+      year: 2019-2023
+      description:
+        - Excellence Degree with GPA 3.87/4.0 (Top 1% of the class)
+        - Thesis "Continuous Neural Ordinary Differential Equations" (Best Thesis Presentation Award)
+        - Advised by <a href="https://scholar.google.com/citations?hl=en&user=tZ78MoQAAAAJ&view_op=list_works&sortby=pubdate">Dr. Linh Van Ngo</a>
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: AI Research Resident
+      institution: FPT Software AI Center, Hanoi, Vietnam
+      year: 2021-2024
+      description: 
+        - Improved Neural ODEs by applying momentum-based optimization techniques to accelerate training and enhance model performance.
+        - Advised by <a href="https://tanmnguyen89.github.io">Prof Tan Minh Nguyen</a> and <a href="https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en">Dr. Thieu N. Vo</a>
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - CS@Max Planck doctoral grant
+    - year: 2019
+      items:
+        - Third Prize, Vietnam Mathematical Olympiad (VMO)
+
+- title: Teaching
+  type: list
+  contents:
+    - title: Teaching Assistant
+      institution: Saarland University, Saarbrücken, Germany
+      year: Summer 2026
+      description:
+        - Courses: <a href="https://cms.sic.saarland/ml26/">Machine Learning</a>
