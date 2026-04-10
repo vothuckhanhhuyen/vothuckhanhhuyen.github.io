@@ -45,6 +45,6 @@ I'm a PhD student at Saarland University (UdS) and Max Planck Institute for Soft
 
 Before my PhD, I was a Research Resident at FPT Software AI Center, working with [Prof. Tan Minh Nguyen](https://tanmnguyen89.github.io) and [Dr. Thieu N. Vo](https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en). In 2023, I graduated from the Honors Program at Hanoi University of Science and Technology (HUST) with a Computer Science Bachelor's degree. During my time there, I was a research student at the Data Science Laboratory, advised by [Dr. Linh Van Ngo](https://scholar.google.com/citations?hl=en&user=tZ78MoQAAAAJ&view_op=list_works&sortby=pubdate).
 
-I'm always happy to chat about new and interesting research ideas - feel free to reach out! 🤗
+I'm always happy to chat about new and interesting research ideas — feel free to reach out! 🤗
 
 Besides research, I have an infinite love for mountains and hiking — the Alps have my whole heart. 🏔️
