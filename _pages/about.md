@@ -25,7 +25,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -36,12 +36,14 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi, I'm Huyen. You can also call me Emily. 
+Hi, I'm Huyen. You can also call me Emily. 🍀
 
-I'm a PhD student at Saarland University (UdS) and Max Planck Institute for Software Systems (MPI-SWS), part of the [CS@Max Planck](https://www.cis.mpg.de/csmaxplanck-overview/) PhD program, where I'm fortunate to be advised by [Prof. Isabel Valera](https://machinelearning.uni-saarland.de/isabel-valera/) in the Probabilistic Machine Learning group.
+I'm a PhD student at Saarland University (UdS) and Max Planck Institute for Software Systems (MPI-SWS), part of the [CS@Max Planck PhD program](https://www.cis.mpg.de/csmaxplanck-overview/), where I'm fortunate to be advised by [Prof. Isabel Valera](https://machinelearning.uni-saarland.de/isabel-valera/) in the Probabilistic Machine Learning group.
 
 My research focuses on multimodal generative models, with a particular interest in the optimization and inference challenges that arise when learning joint representations across multiple data modalities. Previously, I worked on implicit models such as neural ODEs. Across my work, I aim to leverage probabilistic and optimization perspectives to develop models that are both effective and efficient.
 
 Previously, I was a Research Resident at FPT Software AI Center, working with [Prof. Tan Minh Nguyen](https://tanmnguyen89.github.io) and [Dr. Thieu N. Vo](https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en). In 2023, I graduated from the Honors Program at the School of Information and Communication Technology, Hanoi University of Science and Technology (HUST) with a Computer Science Bachelor's degree. During my time there, I was a research student at the Data Science Laboratory, advised by [Dr. Linh V. Ngo](https://scholar.google.com/citations?hl=en&user=tZ78MoQAAAAJ&view_op=list_works&sortby=pubdate).
 
 I'm always happy to chat about new and interesting research ideas - feel free to reach out! 🤗
+
+Besides research, I have an infinite love for mountains and hiking — the Alps have my whole heart. 🏔️
