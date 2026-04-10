@@ -14,7 +14,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
   more_info: >
-      <p> Saarbrücken, Germany
+      <p> Saarbrücken, 66123 Germany
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -42,7 +42,7 @@ I'm a PhD student at Saarland University (UdS) and Max Planck Institute for Soft
 
 My research focuses on multimodal generative models, with a particular interest in the optimization and inference challenges that arise when learning joint representations across multiple data modalities. Previously, I worked on implicit models such as neural ODEs. Across my work, I aim to leverage probabilistic and optimization perspectives to develop models that are both effective and efficient.
 
-Previously, I was a Research Resident at FPT Software AI Center, working with [Prof. Tan Minh Nguyen](https://tanmnguyen89.github.io) and [Dr. Thieu N. Vo](https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en). In 2023, I graduated from the Honors Program at the School of Information and Communication Technology, Hanoi University of Science and Technology (HUST) with a Computer Science Bachelor's degree. During my time there, I was a research student at the Data Science Laboratory, advised by [Dr. Linh V. Ngo](https://scholar.google.com/citations?hl=en&user=tZ78MoQAAAAJ&view_op=list_works&sortby=pubdate).
+Before my PhD, I was a Research Resident at FPT Software AI Center, working with [Prof. Tan Minh Nguyen](https://tanmnguyen89.github.io) and [Dr. Thieu N. Vo](https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en). In 2023, I graduated from the Honors Program at the School of Information and Communication Technology, Hanoi University of Science and Technology (HUST) with a Computer Science Bachelor's degree. During my time there, I was a research student at the Data Science Laboratory, advised by [Dr. Linh V. Ngo](https://scholar.google.com/citations?hl=en&user=tZ78MoQAAAAJ&view_op=list_works&sortby=pubdate).
 
 I'm always happy to chat about new and interesting research ideas - feel free to reach out! 🤗
 

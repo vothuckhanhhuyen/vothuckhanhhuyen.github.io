@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first PhD paper <b>Hellinger Multimodal Variational Autoencoders<b> got a Spotlight at <b>AISTATS 2026<b>! 🎉 
+My first PhD paper <strong>Hellinger Multimodal Variational Autoencoders</strong> got a Spotlight at <strong>AISTATS 2026</strong>! 
