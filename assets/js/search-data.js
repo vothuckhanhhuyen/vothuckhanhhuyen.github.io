@@ -398,14 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-first-paper-improving-neural-ordinary-differential-equations-with-nesterov-s-accelerated-gradient-method-got-accepted-at-neurips-2022",
-          title: 'My first paper Improving Neural Ordinary Differential Equations with Nesterov’s Accelerated Gradient Method...',
+            },},{id: "news-our-paper-got-accepted-at-neurips-2022",
+          title: 'Our paper got accepted at NeurIPS 2022! 🎉',
           description: "",
           section: "News",},{id: "news-i-started-my-phd-at-the-cs-max-planck-program-excited-for-the-journey-ahead",
           title: 'I started my PhD at the CS@Max Planck program. Excited for the journey...',
           description: "",
-          section: "News",},{id: "news-my-first-phd-paper-hellinger-multimodal-variational-autoencoders-got-a-spotlight-2-5-at-aistats-2026",
-          title: 'My first PhD paper Hellinger Multimodal Variational Autoencoders got a Spotlight (2.5%) at...',
+          section: "News",},{id: "news-my-first-phd-paper-got-a-spotlight-2-5-at-aistats-2026",
+          title: 'My first PhD paper got a Spotlight (2.5%) at AISTATS 2026! 🎉',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
