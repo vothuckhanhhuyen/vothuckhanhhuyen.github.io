@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first paper <strong>Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method</strong> got accepted at <strong>NeurIPS 2022</strong>!
+Our paper got accepted at <strong>NeurIPS 2022</strong>! 🎉
