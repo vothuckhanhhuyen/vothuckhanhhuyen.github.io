@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD at the <strong>CS@Max Planck program</strong>. Excited for the journey ahead! 👩‍💻
+I started my PhD at the <strong>CS@Max Planck PhD program</strong>. Excited for the journey ahead! 👩‍💻
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
