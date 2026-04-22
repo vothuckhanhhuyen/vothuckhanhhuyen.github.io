@@ -5,15 +5,15 @@ cv:
 
   sections:
     Education:
-      - institution: Saarland University (UdS) & Max Planck Institute for Software Systems (MPI-SWS)
+      - institution: Saarland University & Max Planck Institute for Software Systems
         location: Saarbrücken, Germany
         studyType: PhD in Computer Science
         start_date: 10/2024
         end_date: present
         highlights:
           - Member of the CS@Max Planck Doctoral Program
-          - Advised by <a href="https://machinelearning.uni-saarland.de/isabel-valera/">Prof. Isabel Valera</a> (UdS & MPI-SWS)
-          - Research interests: multimodal generative modeling, multimodal representation learning, probabilistic inference, and optimization
+          - Advised by <a href="https://machinelearning.uni-saarland.de/isabel-valera/">Prof. Isabel Valera</a>
+          - Research topics in multimodal generative modeling, multimodal representation learning, probabilistic inference, and optimization
 
       - institution: Hanoi University of Science and Technology
         location: Hanoi, Vietnam
@@ -21,7 +21,7 @@ cv:
         start_date: 09/2019
         end_date: 09/2023
         highlights:
-          - Excellence Degree, GPA: 3.87/4.00 (top 1% of class)
+          - Excellence Degree, GPA 3.87/4.00 (top 1% of class)
           - Thesis "Continuous Neural Ordinary Differential Equations" (Recipient of the <strong>Best Thesis Presentation Award</strong>)
 
     # Experience:
