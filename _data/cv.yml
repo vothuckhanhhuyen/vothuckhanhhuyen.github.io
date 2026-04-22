@@ -5,14 +5,15 @@ cv:
 
   sections:
     Education:
-      - institution: Saarland University & Max Planck Institute for Software Systems
+      - institution: Saarland University (UdS) & Max Planck Institute for Software Systems (MPI-SWS)
         location: Saarbrücken, Germany
         studyType: PhD in Computer Science
         start_date: 10/2024
         end_date: present
         highlights:
-          - Part of the CS@Max Planck Doctoral Program
-          - Advised by <a href="https://machinelearning.uni-saarland.de/isabel-valera/">Prof. Isabel Valera</a>
+          - Member of the CS@Max Planck Doctoral Program
+          - Advised by <a href="https://machinelearning.uni-saarland.de/isabel-valera/">Prof. Isabel Valera</a> (UdS & MPI-SWS)
+          - Research interests: multimodal generative modeling, multimodal representation learning, probabilistic inference, and optimization
 
       - institution: Hanoi University of Science and Technology
         location: Hanoi, Vietnam
@@ -20,43 +21,42 @@ cv:
         start_date: 09/2019
         end_date: 09/2023
         highlights:
-          - Excellence Degree with GPA 3.87/4.0 (Top 1% of the class)
-          - Thesis "Continuous Neural Ordinary Differential Equations" (<strong>Best Thesis Presentation Award</strong>)
-          - Advised by <a href="https://scholar.google.com/citations?hl=en&user=tZ78MoQAAAAJ&view_op=list_works&sortby=pubdate">Dr. Linh Van Ngo</a>
+          - Excellence Degree, GPA: 3.87/4.00 (top 1% of class)
+          - Thesis "Continuous Neural Ordinary Differential Equations" (Recipient of the <strong>Best Thesis Presentation Award</strong>)
 
-    Experience:
-      - company: FPT Software AI Center
-        position: AI Research Resident
-        location: Hanoi, Vietnam
-        start_date: 11/2021
-        end_date: 05/2024
-        highlights:
-          - Improved Neural ODEs by applying momentum-based optimization techniques to accelerate training and enhance model performance.
-          - Advised by <a href="https://tanmnguyen89.github.io">Prof. Tan Minh Nguyen</a> and <a href="https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en">Dr. Thieu N. Vo</a>
-      - company: VinBigData
-        position: Data Analysis Intern
-        location: Hanoi, Vietnam
-        start_date: 07/2021
-        end_date: 09/2021
-      - company: Viettel Group
-        position: Data Science Intern
-        location: Hanoi, Vietnam
-        start_date: 04/2021
-        end_date: 07/2021
+    # Experience:
+    #   - company: FPT Software AI Center
+    #     position: AI Research Resident
+    #     location: Hanoi, Vietnam
+    #     start_date: 11/2021
+    #     end_date: 05/2024
+    #     highlights:
+    #       - Improved Neural ODEs by applying momentum-based optimization techniques to accelerate training and enhance model performance.
+    #       - Advised by <a href="https://tanmnguyen89.github.io">Prof. Tan Minh Nguyen</a> and <a href="https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en">Dr. Thieu N. Vo</a>
+    #   - company: VinBigData
+    #     position: Data Analysis Intern
+    #     location: Hanoi, Vietnam
+    #     start_date: 07/2021
+    #     end_date: 09/2021
+    #   - company: Viettel Group
+    #     position: Data Science Intern
+    #     location: Hanoi, Vietnam
+    #     start_date: 04/2021
+    #     end_date: 07/2021
 
-    Awards:
-      - title: CS@Max Planck Doctoral Grant
-        date: 2024
+    # Awards:
+    #   - title: CS@Max Planck Doctoral Grant
+    #     date: 2024
 
-      - title: Third Prize, Vietnam Mathematical Olympiad (VMO)
-        date: 2019
+    #   - title: Third Prize, Vietnam Mathematical Olympiad (VMO)
+    #     date: 2019
 
-    Teaching:
-      - label: Teaching Assistant
-        details: <a href="https://cms.sic.saarland/ml26/">Machine Learning</a>, Saarland University - Summer 2026
+    # Teaching:
+    #   - label: Teaching Assistant
+    #     details: <a href="https://cms.sic.saarland/ml26/">Machine Learning</a>, Saarland University - Summer 2026
 
-    Languages:
-      - language: English
-        fluency: Full professional proficiency
-      - language: Vietnamese
-        fluency: Native proficiency
+    # Languages:
+    #   - language: English
+    #     fluency: Full professional proficiency
+    #   - language: Vietnamese
+    #     fluency: Native proficiency
