@@ -2,6 +2,10 @@
 # - image: filename.jpg (place files in assets/img/gallery/)
 #   caption: Your caption here
 
+- image: aistats_presentation.HEIC
+  caption: Spotlight presentation at AISTATS, Morocco, 2026.
+- image: aistats_poster.JPG
+  caption: Poster presentation at AISTATS, Morocco, 2026.
 - image: zermat.JPG
   caption: 5 lakes hike in Zermatt, Switzerland, 2025.
 - image: stoos.jpg
