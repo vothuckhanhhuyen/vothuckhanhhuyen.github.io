@@ -2,9 +2,9 @@
 # - image: filename.jpg (place files in assets/img/gallery/)
 #   caption: Your caption here
 
-- image: aistats_presentation.HEIC
+- image: aistats_presentation.jpg
   caption: Spotlight presentation at AISTATS, Morocco, 2026.
-- image: aistats_poster.jpg
+- image: aistats_poster.HEIC
   caption: Poster presentation at AISTATS, Morocco, 2026.
 - image: zermat.JPG
   caption: 5 lakes hike in Zermatt, Switzerland, 2025.
@@ -13,4 +13,4 @@
 - image: roadtrip.HEIC
   caption: Motobike road trip, Vietnam, 2024.
 - image: graduation.jpg
-  caption: Graduation day, HUST, 2023.
+  caption: Graduation day, HUST, Vietnam, 2023.
