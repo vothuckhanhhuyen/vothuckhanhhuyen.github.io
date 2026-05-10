@@ -487,7 +487,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/huyen-vo-emily-b384161a0", "_blank");
+          window.open("https://www.linkedin.com/in/huyen-vo-b384161a0", "_blank");
         },
       },{
         id: 'social-x',
