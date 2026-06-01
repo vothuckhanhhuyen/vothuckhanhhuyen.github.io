@@ -11,7 +11,7 @@ booktitle={Forty-third International Conference on Machine Learning},
 year={2026},
 selected={true},
 abstract={Existing approaches for multimodal variational autoencoders (VAEs) face a trade-off between generative quality and coherence—i.e., they struggle to generate realistic and diverse samples that, at the same time, are semantically consistent across modalities. A recent work shows that using a simple approximation to Hölder pooling as an aggregation method improves coherence over the SOTA MMVAE+, despite assuming a single shared representation across all modalities. Yet, it slightly compromises sample diversity. Inspired by this insight, we propose Hölder++, a novel multimodal VAE that improves the generative quality-coherence trade-off through: (i) the first implementation of Hölder pooling without any approximation for multimodal VAEs; (ii) an extended architecture that models distinct shared and private (i.e., modality-specific) representations (Hölder+); and (iii) hierarchical inference that further enhances the disentanglement between the shared and private representations (Hölder++). Our experiments corroborate that Hölder++ consistently improves the generative quality-coherence trade-off, yields more structured latent spaces, and learns shared representations that are informative for downstream tasks.},
-code={https://github.com/vothuckhanhhuyen/holderplusplus}
+code={https://github.com/vothuckhanhhuyen/holderplusplus},
 }
 
 @inproceedings{
@@ -29,8 +29,8 @@ award_name={Spotlight},
 honor={Spotlight Presentation [2.5\%]},
 abstract={Multimodal variational autoencoders (VAEs) are widely used for weakly supervised generative learning with multiple modalities. Predominant methods aggregate unimodal inference distributions using either a product of experts (PoE), a mixture of experts (MoE), or their combinations to approximate the joint posterior. In this work, we revisit multimodal inference through the lens of probabilistic opinion pooling, an optimization-based approach. We start from H\"older pooling with $\alpha=0.5$, which corresponds to the unique symmetric member of the $\alpha$-divergence family, and derive a moment-matching approximation, termed Hellinger. We then leverage such an approximation to propose HELVAE, a multimodal VAE that avoids sub-sampling, yielding an efficient yet effective model that: (i) learns more expressive latent representations as additional modalities are observed; and (ii) empirically achieves better trade-offs between generative coherence and quality, outperforming state-of-the-art multimodal VAE models.},
 pdf={https://arxiv.org/pdf/2601.06572},
-code={https://github.com/vothuckhanhhuyen/hellinger-multimodal-variational-autoencoders}
-slide={HELVAE_slide.pdf},
+code={https://github.com/vothuckhanhhuyen/hellinger-multimodal-variational-autoencoders},
+slides={HELVAE_slide.pdf},
 }
 
 @inproceedings{
