@@ -1,15 +1,19 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-06-19'
 papers:
   AmFrYSUAAAAJ:9yKSN-GCB0IC:
-    citations: 27
+    citations: 28
     title: Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method
     year: '2022'
+  AmFrYSUAAAAJ:Y0pCki6q_DkC:
+    citations: 0
+    title: "H\xF6lder++: Improving the Quality-Coherence Trade-off in Multimodal VAEs"
+    year: '2026'
   AmFrYSUAAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: "TTS-VLSP 2021: The NAVI\u2019s Text-To-Speech System for Vietnamese"
     year: '2022'
   AmFrYSUAAAAJ:zYLM7Y9cAGgC:
-    citations: 1
+    citations: 2
     title: Hellinger Multimodal Variational Autoencoders
     year: '2026'
