@@ -41,6 +41,7 @@ I'm a PhD student at Max Planck Institute for Software Systems (MPI-SWS) and Saa
 
 <div style="border-left: 4px solid #27ae60; background: rgba(39,174,96,0.06); border-radius: 4px; padding: 0.8em 1em; margin: 1em 0;">
 👩‍💻 My research follows two lines, <strong>multimodal generative models</strong> and <strong>multimodal contrastive learning</strong>. Both are ultimately driven by the same goal: <em>learning informative representations</em> that capture the semantics shared across modalities while preserving what is specific to each. I study both from a probabilistic and optimization perspective, focusing on the inference and optimization challenges that arise when <em>scaling the number of modalities</em>.
+</div>
 
 Before my PhD, I was a Research Resident at FPT Software AI Center, working with [Prof. Tan Minh Nguyen](https://tanmnguyen89.github.io) and [Dr. Thieu N. Vo](https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en). In 2023, I graduated from the Honors Program at Hanoi University of Science and Technology (HUST) with a Computer Science Bachelor's degree. During my time there, I was a research student at the Data Science Laboratory, advised by [Dr. Linh Ngo Van](https://scholar.google.com/citations?hl=en&user=tZ78MoQAAAAJ&view_op=list_works&sortby=pubdate).
 
