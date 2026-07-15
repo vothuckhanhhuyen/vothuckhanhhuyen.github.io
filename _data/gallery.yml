@@ -2,10 +2,12 @@
 # - image: filename.jpg (place files in assets/img/gallery/)
 #   caption: Your caption here
 
+- image: icml_poster.HEIC
+  caption: ICML, Korea, 2026.
 - image: aistats_presentation.jpg
-  caption: Spotlight presentation, AISTATS, Morocco, 2026.
+  caption: AISTATS, Morocco, 2026.
 - image: aistats_poster.HEIC
-  caption: Poster presentation, AISTATS, Morocco, 2026.
+  caption: AISTATS, Morocco, 2026.
 - image: graduation.jpg
   caption: Graduation day, HUST, Vietnam, 2023.
 - image: stoos.jpg
