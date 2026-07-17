@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-17'
 papers:
   AmFrYSUAAAAJ:9yKSN-GCB0IC:
-    citations: 28
+    citations: 30
     title: Improving Neural Ordinary Differential Equations with Nesterov's Accelerated Gradient Method
     year: '2022'
   AmFrYSUAAAAJ:Y0pCki6q_DkC:
