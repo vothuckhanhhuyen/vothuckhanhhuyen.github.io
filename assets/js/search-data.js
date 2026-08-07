@@ -493,13 +493,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/huyen-vo-b384161a0", "_blank");
         },
       },{
-        id: 'social-x',
-        title: 'X',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://twitter.com/huyenvo461", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
