@@ -24,39 +24,39 @@ cv:
   #         - Excellence Degree, GPA 3.87/4.00 (top 1% of class)
   #         - Thesis "Continuous Neural Ordinary Differential Equations" (Recipient of the <strong>Best Thesis Presentation Award</strong>)
 
-    # Experience:
-    #   - company: FPT Software AI Center
-    #     position: AI Research Resident
-    #     location: Hanoi, Vietnam
-    #     start_date: 11/2021
-    #     end_date: 05/2024
-    #     highlights:
-    #       - Improved Neural ODEs by applying momentum-based optimization techniques to accelerate training and enhance model performance.
-    #       - Advised by <a href="https://tanmnguyen89.github.io">Prof. Tan Minh Nguyen</a> and <a href="https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en">Dr. Thieu N. Vo</a>
-    #   - company: VinBigData
-    #     position: Data Analysis Intern
-    #     location: Hanoi, Vietnam
-    #     start_date: 07/2021
-    #     end_date: 09/2021
-    #   - company: Viettel Group
-    #     position: Data Science Intern
-    #     location: Hanoi, Vietnam
-    #     start_date: 04/2021
-    #     end_date: 07/2021
+  # Experience:
+  #   - company: FPT Software AI Center
+  #     position: AI Research Resident
+  #     location: Hanoi, Vietnam
+  #     start_date: 11/2021
+  #     end_date: 05/2024
+  #     highlights:
+  #       - Improved Neural ODEs by applying momentum-based optimization techniques to accelerate training and enhance model performance.
+  #       - Advised by <a href="https://tanmnguyen89.github.io">Prof. Tan Minh Nguyen</a> and <a href="https://scholar.google.com/citations?user=CM2qJSoAAAAJ&hl=en">Dr. Thieu N. Vo</a>
+  #   - company: VinBigData
+  #     position: Data Analysis Intern
+  #     location: Hanoi, Vietnam
+  #     start_date: 07/2021
+  #     end_date: 09/2021
+  #   - company: Viettel Group
+  #     position: Data Science Intern
+  #     location: Hanoi, Vietnam
+  #     start_date: 04/2021
+  #     end_date: 07/2021
 
-    # Awards:
-    #   - title: CS@Max Planck Doctoral Grant
-    #     date: 2024
+  # Awards:
+  #   - title: CS@Max Planck Doctoral Grant
+  #     date: 2024
 
-    #   - title: Third Prize, Vietnam Mathematical Olympiad (VMO)
-    #     date: 2019
+  #   - title: Third Prize, Vietnam Mathematical Olympiad (VMO)
+  #     date: 2019
 
-    # Teaching:
-    #   - label: Teaching Assistant
-    #     details: <a href="https://cms.sic.saarland/ml26/">Machine Learning</a>, Saarland University - Summer 2026
+  # Teaching:
+  #   - label: Teaching Assistant
+  #     details: <a href="https://cms.sic.saarland/ml26/">Machine Learning</a>, Saarland University - Summer 2026
 
-    # Languages:
-    #   - language: English
-    #     fluency: Full professional proficiency
-    #   - language: Vietnamese
-    #     fluency: Native proficiency
+  # Languages:
+  #   - language: English
+  #     fluency: Full professional proficiency
+  #   - language: Vietnamese
+  #     fluency: Native proficiency

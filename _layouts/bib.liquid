@@ -193,7 +193,9 @@
     </div>
     {% if entry.honor %}
       <div class="periodical">
-        <span class="honor-text" style="font-size: 0.85em;"><strong>{{ entry.honor }}</strong></span>
+        <span class="honor-text" style="font-size: 0.85em;"
+          ><strong>{{ entry.honor }}</strong></span
+        >
       </div>
     {% endif %}
 
@@ -386,7 +388,7 @@
       <div class="bibtex hidden">
         {% highlight bibtex %}
         {{- entry.bibtex | hideCustomBibtex -}}
-        {% endhighlight %}
+      {% endhighlight %}
       </div>
     {% endif %}
 
