@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m going to ICML 2026 in Seoul, Korea. ✈️
+I attended ICML 2026 in Seoul, Korea. 🇰🇷

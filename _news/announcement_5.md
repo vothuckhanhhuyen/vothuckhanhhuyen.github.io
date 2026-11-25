@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I’m going to AISTATS 2026 in Tangier, Morocco. ✈️
+I attended AISTATS 2026 in Tangier, Morocco. 🇲🇦
